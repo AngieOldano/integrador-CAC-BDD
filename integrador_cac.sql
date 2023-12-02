@@ -23,3 +23,5 @@ VALUES
   ('Jeff', 'Bezos', 'jeffbezos@amazon.com', 'Innovación Empresarial', '2022-03-01'),
   ('Sundar', 'Pichai', 'sundarpichai@google.com', 'Tecnologías de Búsqueda', '2022-02-14'),
   ('Susan', 'Wojcicki', 'susanwojcicki@youtube.com', 'Contenido Digital', '2022-01-05');
+
+select * FROM integrador_cac.oradores;
