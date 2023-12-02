@@ -7,6 +7,7 @@ Se deberá crear una base de datos llamada “integrador_cac” y crear la sigui
 
 
 Definir los tipos de datos correspondientes
+<br>
 Definir la clave primaria correspondiente
 Definir las restricciones correspondientes
 Insertar 10 registros
